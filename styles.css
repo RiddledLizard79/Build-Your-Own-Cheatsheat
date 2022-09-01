@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+}
+
+body {
+    background: rgb(177, 205, 228);
+}
+
+.table {
+    border: 2px solid  blueviolet;
+}
+
+td {
+    border-bottom: 1px solid blueviolet;
+}
+
+.thead {
+    background-color: plum;
+}
+
+h2 {
+    text-align: center;
+    color: blueviolet;
+}
+
+.highlight {
+    background-color: beige;
+    font-family: monospace;
+}
